@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning in Polytechnic Negeri Bali<br>⚡ Expert in Laravel, CI, Flutter
+🌱 I’m currently learning in Bali State Polytechnic<br>⚡ Expert in Laravel, CI, Flutter
 
 
 # 💻 Tech Stack:
