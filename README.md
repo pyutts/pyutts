@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning in Bali State Polytechnic<br>⚡ Expert in Laravel, CodeIgnitter, Flutter, and VueJS
+🌱 I’m currently learning in Bali State Polytechnic<br>⚡ Expert in Laravel, CodeIgnitter, Flutter, and ReactJS
 
 
 # 💻 Tech Stack:
